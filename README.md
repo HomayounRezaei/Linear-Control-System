@@ -1,5 +1,3 @@
-check wiki for finding explanation of project and codes
-
 # **Ball and Beam**
 
 ## **1. Introduction**
